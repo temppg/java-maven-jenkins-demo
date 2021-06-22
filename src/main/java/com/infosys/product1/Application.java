@@ -8,6 +8,7 @@ public class Application {
 	public static void main(String[] args) {
 		
 		logger.trace("trace message Stable");
+		looger
 		logger.debug("this is a debug message");
 		logger.info("this is a info message");
 		logger.warn("this is a warning message");
